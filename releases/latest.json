@@ -1,0 +1,28 @@
+{
+  "app_version": "1.0",
+  "exe_url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/builds/Central%20Transport%20Tracker%201.2.exe",
+  "modules": [
+    {
+      "name": "Telemetry SDK",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/TelemetrySDK.zip"
+    },
+    {
+      "name": "Quest System",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/AutoUpdater.zip"
+    },
+    {
+      "name": "Auto Updater",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/AutoUpdater.zip"
+    },
+    {
+      "name": "Discord Presence",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/DiscordPresence.zip"
+    }
+  ],
+  "notes": "Stabilne wydanie 1.0: Całkowicie nowa wersja aplikacji, przepisana całkowicie na nowo.",
+  "published_at": "2025-08-15"
+}
