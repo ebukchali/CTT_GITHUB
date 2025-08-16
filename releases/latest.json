@@ -4,7 +4,7 @@
   "modules": [
     {
       "name": "Telemetry SDK",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_telemetry.zip"
     },
     {
