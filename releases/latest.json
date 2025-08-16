@@ -1,26 +1,26 @@
 {
   "app_version": "1.0",
-  "exe_url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/builds/Central%20Transport%20Tracker%201.2.exe",
+  "exe_url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/builds/Central%20Transport%20Tracker.exe",
   "modules": [
     {
       "name": "Telemetry SDK",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/TelemetrySDK.zip"
+      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_telemetry.zip"
     },
     {
       "name": "Quest System",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/AutoUpdater.zip"
+      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_delivery_quests.zip"
     },
     {
       "name": "Auto Updater",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/AutoUpdater.zip"
+      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_updater.zip"
     },
     {
       "name": "Discord Presence",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/TwojUser/central-transport-tracker/main/modules/DiscordPresence.zip"
+      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_discord_rpc.zip"
     }
   ],
   "notes": "Stabilne wydanie 1.0: Całkowicie nowa wersja aplikacji, przepisana całkowicie na nowo.",
