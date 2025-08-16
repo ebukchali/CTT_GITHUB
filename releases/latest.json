@@ -1,10 +1,10 @@
 {
-  "app_version": "1.0",
+  "app_version": "1.1",
   "exe_url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/builds/Central%20Transport%20Tracker.exe",
   "modules": [
     {
       "name": "Telemetry SDK",
-      "version": "1.1",
+      "version": "1.0",
       "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_telemetry.zip"
     },
     {
