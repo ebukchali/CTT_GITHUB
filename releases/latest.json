@@ -24,5 +24,5 @@
     }
   ],
   "notes": "Stabilne wydanie 1.1: Dodano sprawdzanie, czy aplikacja ma dostęp do internetu, powinno to naprawić problem z pojawianiem się okna do rejestracji przy uruchamianiu aplikacji, poprawiony został też podpis z Delivery & Quests na Last Delivery sent.",
-  "published_at": "2025-08-15"
+  "published_at": "2025-09-01"
 }
