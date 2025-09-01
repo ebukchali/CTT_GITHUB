@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0",
+  "app_version": "1.1",
   "exe_url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/builds/Central%20Transport%20Tracker.exe",
   "modules": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "name": "Quest System",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_delivery_quests.zip"
     },
     {
@@ -23,6 +23,6 @@
       "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_discord_rpc.zip"
     }
   ],
-  "notes": "Stabilne wydanie 1.0: Całkowicie nowa wersja aplikacji, przepisana całkowicie na nowo.",
+  "notes": "Stabilne wydanie 1.1: Dodano sprawdzanie, czy aplikacja ma dostęp do internetu, powinno to naprawić problem z pojawianiem się okna do rejestracji przy uruchamianiu aplikacji, poprawiony został też podpis z Delivery & Quests na Last Delivery sent.",
   "published_at": "2025-08-15"
 }
