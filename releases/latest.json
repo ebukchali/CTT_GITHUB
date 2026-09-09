@@ -1,26 +1,26 @@
 {
-  "app_version": "1.2",
-  "exe_url": "https://github.com/ebukchali/CTT_GITHUB/raw/refs/heads/main/builds/Central%20Transport%20Tracker.exe",
+  "app_version": "1.3",
+  "exe_url": "https://central-transport.net/api/download/builds/Central_Transport_Tracker.exe",
   "modules": [
     {
       "name": "Telemetry SDK",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_telemetry.zip"
+      "url": "https://central-transport.net/api/download/modules/mod_telemetry.zip"
     },
     {
       "name": "Quest System",
       "version": "1.1",
-      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_delivery_quests.zip"
+      "url": "https://central-transport.net/api/download/modules/mod_delivery_quests.zip"
     },
     {
       "name": "Auto Updater",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_updater.zip"
+      "url": "https://central-transport.net/api/download/modules/mod_updater.zip"
     },
     {
       "name": "Discord Presence",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/ebukchali/CTT_GITHUB/refs/heads/main/modules/mod_discord_rpc.zip"
+      "url": "https://central-transport.net/api/download/modules/mod_discord_rpc.zip"
     }
   ],
   "notes": "Stabilne wydanie 1.2: Przywrócono działanie aplikacji.",
